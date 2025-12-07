@@ -130,7 +130,7 @@ export const projectsCommand = [
     cover: "/projectOb1.png",
     background: "bg-gray-800",
     description:
-      "A lightweight Windows service that monitors system usage — tracks running applications, screenshots, and external storage events. Built in C#.",
+      "A lightweight Windows service that monitors system usage — tracks running applications, screenshots, and external storage events. Built in C# .",
   },
   {
     title: "SecurityRat",
